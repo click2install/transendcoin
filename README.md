@@ -4,7 +4,7 @@ Shell script to install an [Transend Masternode](https://bitcointalk.org/index.p
 
 ## Installation 
 ```
-wget -q https://raw.githubusercontent.com/click2install/elleriumcoin/master/install-transend.sh  
+wget -q https://raw.githubusercontent.com/click2install/transendcoin/master/install-transend.sh  
 bash install-transend.sh
 ```
 
